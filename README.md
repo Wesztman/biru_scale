@@ -1,3 +1,3 @@
 # biru_scale
 
-Test
+A scale for measuring beer volume in a keg.
